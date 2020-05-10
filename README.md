@@ -1,2 +1,2 @@
 # GlobalCikciker
-JAVA dosya işlemlerini kullanarak sosyal medya platformu benzeri bir yapı inşa ediyoruz.
+JAVA dosya işlemlerini kullanarak sosyal medya platformu benzeri bir uygulama.
